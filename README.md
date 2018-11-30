@@ -11,4 +11,4 @@ This repository has been created in order to provide course materials for the Bi
 - SingleCellExperiment R package
 - Scater R Package
 - Monocle R Package
-
+In order to install above packages download and run the script Install_Packages.R in RStudio
