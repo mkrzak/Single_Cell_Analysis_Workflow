@@ -2,7 +2,7 @@
 This repository has been created in order to provide course materials for the Bioconductor Meetup "Single cell Analysis Workflow",  held at National Research Council - library, on 17 December 2018, 16:30 o'clock.
 
 ## The course will cover:
-- Introduction to single cell RNAseq
+- Introduction to single cell RNAseq technology
 - Preprocessing single cell RNAseq data
 - Analysis of single cell RNAseq data
 
